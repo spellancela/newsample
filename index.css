@@ -1,6 +1,7 @@
 body
 {
-   background-color: blue;
+    background-image: url("img_tree.png");
+    background-repeat: no-repeat;
 }
 
 .sample h2
